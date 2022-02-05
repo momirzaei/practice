@@ -4,7 +4,9 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/// <summary>
+/// tamrin term AP ke be payan reside
+/// </summary>
 namespace Assignment11
 {
     class Program
